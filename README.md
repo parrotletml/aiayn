@@ -1,2 +1,2 @@
 # aiayn
-This repo implements Attention is all You Need paper to Translate from ED to FR
+This repo implements the Attention is all You Need paper to Translate from En to Fr
